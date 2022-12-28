@@ -145,4 +145,4 @@ int main(int argc, char* argv[]) {
 // gcc -fopenmp hangman.c -o hangman
 // ./hangman
 //docker build -t hangman .
-//docker run -it openmp
+//docker run -it hangman
